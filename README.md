@@ -1,4 +1,4 @@
-# INF99X: corso di esempio
+# MS-4014: Creare una base per generare agenti di intelligenza artificiale ed estendere Microsoft 365 Copilot
 
 **Si è un Microsoft Certified Trainer?** - Esaminare la [guida per utenti di GitHub per Microsoft Certified Trainer](https://microsoftlearning.github.io/MCT-User-Guide/)
 
